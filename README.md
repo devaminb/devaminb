@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![](i-need-a-job.webp?raw=true)
+
+- ⚡ Skills: Python, Bash, JavaScript, Git, Docker
+- 🌱 Learning: AWS, Kubernetes
+- 🤔 Looking for a fully-remote junior Python engineering contract job
+- 📫 Location: Africa
