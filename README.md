@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Learning: AWS, Kubernetes
 - 🤔 Looking for a fully-remote junior Python engineering contract job
 - 📫 Location: Africa
-- 💻 OS: Zorin OS 16.1 (based on Ubuntu 20.04)
+- 💻 OS: Windows 11
 - ✍️ Text/code editor: Vim
 - 📝 General-purpose IDE: Visual Studio Code
 - ✏️ Python IDE: PyCharm
