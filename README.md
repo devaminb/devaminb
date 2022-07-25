@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Skills: Python, Bash, JavaScript, Git, Docker
-- 🌱 Learning: AWS, Kubernetes
 - 💻 OS: Windows 11
 - ✍️ Text/code editor: Vim
 - 📝 General-purpose IDE: Visual Studio Code
